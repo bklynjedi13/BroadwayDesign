@@ -1,0 +1,9 @@
+#navigation {
+  background-image: url(the-flatiron-building.png);
+}
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
