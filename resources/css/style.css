@@ -40,3 +40,12 @@ footer {
   color: white;
   background-color: dimgray;
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+footer li {
+    display: inline;
+    text-align: : left;
+}
