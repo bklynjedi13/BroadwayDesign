@@ -1,3 +1,6 @@
+footer {
+  text-align: left;
+}
 body {
   text-align: center;
 }
@@ -47,5 +50,4 @@ ul {
 }
 footer li {
     display: inline;
-    text-align: : left;
 }
